@@ -1,0 +1,157 @@
+.SkillBar {
+    width: 90%;
+    height: 7px;
+    position: relative;
+    background: #d2d2d2;
+    /*margin: 20px auto;*/
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#Skill-75 {
+    width: 75%;
+    height: 7px;
+    border-radius: 20px;
+    animation: Animate-A 4s;
+    -webkit-animation: Animate-A 4s;
+    -moz-animation: Animate-A 4s;
+    -o-animation: Animate-A 4s;
+    position: absolute;
+    background-color: #81D8D0;
+}
+@keyframes Animate-A {
+    from {
+    width: 10px;
+}
+to {
+    width: 75%}
+}@-webkit-keyframes Animate-A {
+    from {
+    width: 10px;
+}
+to {
+    width: 75%}
+}@-moz-keyframes Animate-A {
+    from {
+    width: 10px;
+}
+to {
+    width: 75%}
+}@-o-keyframes Animate-A {
+    from {
+    width: 10px;
+}
+to {
+    width: 75%}
+}
+
+#Skill-70 {
+    width: 70%;
+    height: 7px;
+    border-radius: 20px;
+    animation: Animate-B 4s;
+    -webkit-animation: Animate-B 4s;
+    -moz-animation: Animate-B 4s;
+    -o-animation: Animate-B 4s;
+    position: absolute;
+    background-color: #81D8D0;
+}
+@keyframes Animate-B {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-B {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-B {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-B {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}
+
+#Skill-65 {
+    width: 65%;
+    height: 7px;
+    border-radius: 20px;
+    animation: Animate-C 4s;
+    -webkit-animation: Animate-C 4s;
+    -moz-animation: Animate-C 4s;
+    -o-animation: Animate-C 4s;
+    position: absolute;
+    background-color: #81D8D0;
+}
+@keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 65%}
+}@-webkit-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 65%}
+}@-moz-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 65%}
+}@-o-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 65%}
+}
+
+#Skill-60 {
+    width: 60%;
+    height: 7px;
+    border-radius: 20px;
+    animation: Animate-D 4s;
+    -webkit-animation: Animate-D 4s;
+    -moz-animation: Animate-D 4s;
+    -o-animation: Animate-D 4s;
+    position: absolute;
+    background-color: #81D8D0;
+}
+@keyframes Animate-D {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-webkit-keyframes Animate-D {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-moz-keyframes Animate-D {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-o-keyframes Animate-D {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}
