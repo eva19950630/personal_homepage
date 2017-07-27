@@ -8,6 +8,43 @@
     border-radius: 20px;
 }
 
+#Skill-80 {
+    width: 80%;
+    height: 7px;
+    border-radius: 20px;
+    animation: Animate-E 4s;
+    -webkit-animation: Animate-E 4s;
+    -moz-animation: Animate-E 4s;
+    -o-animation: Animate-E 4s;
+    position: absolute;
+    background-color: #81D8D0;
+}
+@keyframes Animate-E {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-webkit-keyframes Animate-E {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-moz-keyframes Animate-E {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-o-keyframes Animate-E {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}
+
 #Skill-75 {
     width: 75%;
     height: 7px;
